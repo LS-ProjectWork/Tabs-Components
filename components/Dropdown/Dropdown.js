@@ -1,6 +1,5 @@
 class Dropdown {
   constructor(element) {
-    console.log(element)
     // Assign this.element to the dropdown element
     this.element = element;
     
